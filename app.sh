@@ -1,4 +1,5 @@
 #!/bin/bash
 
-echo "BUG"
-exit 1
+echo "FIX"
+exit 0
+
